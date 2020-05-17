@@ -1,6 +1,6 @@
-<img src="/1.jpg" width="350">
+![image](1.jpg)
 
-<img src="/2.jpg" width="350">
+![image](2.jpg)
 
 复制以下串码中的一个，然后从剪贴板导入
 
